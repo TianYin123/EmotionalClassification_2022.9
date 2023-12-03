@@ -6,5 +6,7 @@ By completing this project, I became more familiar with the skills which I learn
 - Grad-cam shows that many of features in facial expression can influence the machine’s judgement. Thus it is a challenge to significantly improve the accuracy of the model.
 
 **Although it's a group project and I mainly overcome the data preprocessing part,actually I take part in every part of this task.**
-
-The 
+# File explain
+The "emotional classification.ipynb" file is the main part of this project.
+The pptx file is the final presentation of my group.
+Furthermore, all documents were published with the consent of the group members.

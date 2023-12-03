@@ -8,5 +8,5 @@ By completing this project, I became more familiar with the skills which I learn
 **Although it's a group project and I mainly overcome the data preprocessing part,actually I take part in every part of this task.**
 # File explain
 The "emotional classification.ipynb" file is the main part of this project.  
-The pptx file is the final presentation of my group. 
+The pptx file is the final presentation of my group.  
 Furthermore, all documents were published with the consent of the group members.
